@@ -1,16 +1,36 @@
-# 👋 Hi there, I’m @pabasara madhawa
+# 👋 Hi there, I’m Pabasara Madhawa
 
-- 👀 I’m interested in **Java development**, mastering **Object-Oriented Programming (OOP)** concepts, and building real-world software solutions.
-- 🌱 I’m currently Mastering **OOP concepts**, **Java Swing**, and improving my skills in **JAVA**.
-- 💞️ I’m looking to collaborate on Java projects, open-source applications, and anything that helps sharpen my skills and contribute to the dev community.
-- 📫 How to reach me:  
-  - 📧 Email: pabasaramadhawa820@gmail.com
-  - 💼 LinkedIn: in/madhawa-jayashantha-ab57a1345
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I started coding at a young age and love mixing creativity with logic to build fun, user-friendly applications!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pabasara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhawa-jayashantha-ab57a1345/)
+[![Email](https://img.shields.io/badge/Email-pabasaramadhawa820@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabasaramadhawa820@gmail.com)
 
-![download (1)](https://github.com/user-attachments/assets/ffa2ed59-cc7a-4077-aa2a-8665d1d991fe)
 
-<!---
-madhawa999-pe/madhawa999-pe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💻 About Me
+- 👀 Passionate about **Backend Development**, **Java programming**, and building **efficient, scalable systems**  
+- 🌱 Currently mastering **Java Swing**, **OOP concepts**, **SQL Server**, and **backend system design**  
+- 💻 Hands-on experience with **Hospital Management Systems** and **Student Management Systems**  
+- 💞️ Open to collaborating on **Java projects**, **backend systems**, and **full-stack applications**  
+- 🎵 In free time, I enjoy **creating chill music** with friendly, positive vibes  
+
+---
+
+## 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhawa999-pe"/>
+</p>
+
+---
+
+*"Great backend code is like a solid foundation—it makes everything else work seamlessly."* ⚡
