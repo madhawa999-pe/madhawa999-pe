@@ -65,22 +65,6 @@ public class PabasaraMadhawa extends Developer {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🌐 GoRide.lk | Live travel & ride booking website serving Sri Lankan users | JavaScript, HTML, CSS, PHP | ✅ Live |
-| 🏥 Hospital Management System | Full-featured system for patient records, appointments & billing | Java, Java Swing, SQL Server | ✅ Complete |
-| 🎓 Student Management System | Academic records, grading, and enrollment management | Java, SQL Server, OOP | ✅ Complete |
-| 😊 MoodMate | Simple and intuitive mood tracker to log and visualize daily emotions | Java, Java Swing | ✅ Complete |
-| 📦 Invencys | Inventory management system with stock tracking and reporting | C#, .NET, SQL Server | ✅ Complete |
-| 📱 Mobile App (In Progress) | Cross-platform mobile application | React Native, Android Studio | 🚧 In Progress |
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,15 +92,6 @@ public class PabasaraMadhawa extends Developer {
 ```
 
 </div>
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build and deploy a full-stack Java Spring Boot application
-- [ ] Contribute to open-source Java projects
-- [ ] Master microservices and REST API design
-- [ ] Release a personal project on the Play Store
 
 ---
 
